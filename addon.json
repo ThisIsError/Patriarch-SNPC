@@ -1,0 +1,13 @@
+{
+	"title"		:	"Patriarch SNPC",
+	"type"		:	"NPC",
+	"tags"		:	[ "Fun", "" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*",
+		"*.jpeg",
+		"*.jpg"
+	]
+}

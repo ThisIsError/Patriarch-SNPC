@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Tripwire/Killing Floor/Zeds/Patriarch/patriarch_gore_limbs_diff"
+	"$bumpmap" "models/Tripwire/Killing Floor/Zeds/Patriarch/patriarch_gore_limbs_diff_bump"
+	"$alphatest" "1"
+}

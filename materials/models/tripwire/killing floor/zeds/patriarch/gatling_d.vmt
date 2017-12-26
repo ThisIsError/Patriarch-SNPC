@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Tripwire/Killing Floor/Zeds/Patriarch/gatling_d"
+	"$bumpmap" "models/Tripwire/Killing Floor/Zeds/Patriarch/gatling_d_bump"
+	"$surfaceprop" "Metal.Medium"
+	"$phong" "1"
+}
